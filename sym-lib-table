@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Cherry_MX")(type "KiCad")(uri "${GOOGLE_DRIVE_LIB}/Cherry-MX-Breakout-Board/libraries/Cherry_MX.kicad_sym")(options "")(descr "")(disabled))
+)
