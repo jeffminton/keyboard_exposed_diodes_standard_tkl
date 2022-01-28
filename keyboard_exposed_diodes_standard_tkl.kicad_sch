@@ -891,7 +891,6 @@
     )
   )
 
-
   (junction (at 187.325 243.205) (diameter 0) (color 0 0 0 0)
     (uuid 009a4fb4-fcc0-4623-ae5d-c1bae3219583)
   )
@@ -2596,9 +2595,9 @@
   (no_connect (at 727.71 256.54) (uuid 9cb12cc8-7f1a-4a01-9256-c119f11a8a02))
   (no_connect (at 727.71 251.46) (uuid c7e7067c-5f5e-48d8-ab59-df26f9b35863))
   (no_connect (at 459.105 154.305) (uuid e2236980-a9ef-4a93-86bc-b577d95dada7))
-  (no_connect (at 456.565 154.305) (uuid e2236980-a9ef-4a93-86bc-b577d95dada7))
-  (no_connect (at 433.705 154.305) (uuid e2236980-a9ef-4a93-86bc-b577d95dada7))
-  (no_connect (at 436.245 154.305) (uuid e2236980-a9ef-4a93-86bc-b577d95dada7))
+  (no_connect (at 456.565 154.305) (uuid e2236980-a9ef-4a93-86bc-b577d95dada8))
+  (no_connect (at 433.705 154.305) (uuid e2236980-a9ef-4a93-86bc-b577d95dada9))
+  (no_connect (at 436.245 154.305) (uuid e2236980-a9ef-4a93-86bc-b577d95dadaa))
   (no_connect (at 727.71 254) (uuid e42b8b80-020c-4fee-b000-fd91abf3966d))
   (no_connect (at 616.585 462.28) (uuid f6c96c0d-4cf7-4e5a-ad96-cb52e5fda138))
 
@@ -10131,6 +10130,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d14135f5-f58f-403e-9fb0-dd4e8897ab04)
   )
+  (label "D-" (at 454.025 158.75 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid d14b5fb4-13c4-46ef-ad50-0b2c2cec440a)
+  )
   (label "ROW 2" (at 113.665 336.55 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d191a22a-e082-427b-8f16-33d0aed466b5)
@@ -10142,6 +10145,10 @@
   (label "COL 12" (at 490.855 213.995 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e51d2010-43c5-4b71-90a7-fdeb3b0748be)
+  )
+  (label "D+" (at 446.405 158.75 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid f13944df-740c-41ed-9f05-32eea7432ee3)
   )
 
   (global_label "PWR" (shape input) (at 464.185 158.75 180) (fields_autoplaced)
