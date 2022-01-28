@@ -1,2 +1,6 @@
 (fp_lib_table
+  (lib (name "Cherry MX")(type "KiCad")(uri "${KIPRJMOD}/lib/Cherry-MX-Breakout-Board/libraries/Cherry MX.pretty")(options "")(descr ""))
+  (lib (name "digikey-footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/digikey-kicad-library-master/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name "Mounting_Keyboard_Stabilizer")(type "KiCad")(uri "${KIPRJMOD}/lib/keyswitch-kicad-library-main/library/footprints/Mounting_Keyboard_Stabilizer.pretty")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/lib/RP_Silicon_KiCad/KiCadLibraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
 )

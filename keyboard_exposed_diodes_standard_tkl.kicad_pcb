@@ -1833,7 +1833,7 @@
   )
 
   (footprint "Cherry MX:Cherry-MX_PCB-Mounted_LTST-A683CEGBW_Mill-Max-7305" (layer "F.Cu")
-    (tedit 61E117C3) (tstamp 00000000-0000-0000-0000-0000619a2e16)
+    (tedit 61F0418A) (tstamp 00000000-0000-0000-0000-0000619a2e16)
     (at 145.745 221)
     (property "Sheetfile" "keyboard_exposed_diodes_w_fn_row.kicad_sch")
     (property "Sheetname" "")
@@ -1889,12 +1889,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${GOOGLE_DRIVE_LIB}/keyswitch-kicad-library-main/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp" hide
+    (model "${GOOGLE_DRIVE_LIB}/keyswitch-kicad-library-main/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_1u.step" hide
+    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_1u.step"
       (offset (xyz 0 0 9))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1902,7 +1902,7 @@
   )
 
   (footprint "Cherry MX:Cherry-MX_PCB-Mounted_LTST-A683CEGBW_Mill-Max-7305" (layer "F.Cu")
-    (tedit 61E11792) (tstamp 00000000-0000-0000-0000-0000619a2e2e)
+    (tedit 61F041CE) (tstamp 00000000-0000-0000-0000-0000619a2e2e)
     (at 210.03875 325.775)
     (property "Sheetfile" "keyboard_exposed_diodes_w_fn_row.kicad_sch")
     (property "Sheetname" "")
@@ -1958,12 +1958,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${GOOGLE_DRIVE_LIB}/keyswitch-kicad-library-main/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp" hide
+    (model "${GOOGLE_DRIVE_LIB}/keyswitch-kicad-library-main/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_2.25u.step" hide
+    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_2.25u.step"
       (offset (xyz 0 0 9))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1971,7 +1971,7 @@
   )
 
   (footprint "Cherry MX:Cherry-MX_PCB-Mounted_LTST-A683CEGBW_Mill-Max-7305" (layer "F.Cu")
-    (tedit 61E11783) (tstamp 00000000-0000-0000-0000-0000619a2e46)
+    (tedit 61F041E7) (tstamp 00000000-0000-0000-0000-0000619a2e46)
     (at 286.23875 325.775)
     (property "Sheetfile" "keyboard_exposed_diodes_w_fn_row.kicad_sch")
     (property "Sheetname" "")
@@ -2027,12 +2027,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${GOOGLE_DRIVE_LIB}/keyswitch-kicad-library-main/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp" hide
+    (model "${GOOGLE_DRIVE_LIB}/keyswitch-kicad-library-main/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_2.25u.step" hide
+    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_2.25u.step"
       (offset (xyz 0 0 9))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -2040,7 +2040,7 @@
   )
 
   (footprint "Cherry MX:Cherry-MX_PCB-Mounted_LTST-A683CEGBW_Mill-Max-7305" (layer "F.Cu")
-    (tedit 61E117D7) (tstamp 00000000-0000-0000-0000-0000619a2e5e)
+    (tedit 61F04196) (tstamp 00000000-0000-0000-0000-0000619a2e5e)
     (at 417.2075 287.675)
     (property "Sheetfile" "keyboard_exposed_diodes_w_fn_row.kicad_sch")
     (property "Sheetname" "")
@@ -2096,12 +2096,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${GOOGLE_DRIVE_LIB}/keyswitch-kicad-library-main/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp" hide
+    (model "${GOOGLE_DRIVE_LIB}/keyswitch-kicad-library-main/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_1u.step" hide
+    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_1u.step"
       (offset (xyz 0 0 9))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -2109,7 +2109,7 @@
   )
 
   (footprint "Cherry MX:Cherry-MX_PCB-Mounted_LTST-A683CEGBW_Mill-Max-7305" (layer "F.Cu")
-    (tedit 61E117FC) (tstamp 00000000-0000-0000-0000-0000619a2e76)
+    (tedit 61F041B7) (tstamp 00000000-0000-0000-0000-0000619a2e76)
     (at 417.2075 306.725)
     (property "Sheetfile" "keyboard_exposed_diodes_w_fn_row.kicad_sch")
     (property "Sheetname" "")
@@ -2165,12 +2165,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${GOOGLE_DRIVE_LIB}/keyswitch-kicad-library-main/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp" hide
+    (model "${GOOGLE_DRIVE_LIB}/keyswitch-kicad-library-main/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_1u.step" hide
+    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_1u.step"
       (offset (xyz 0 0 9))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -2178,7 +2178,7 @@
   )
 
   (footprint "Cherry MX:Cherry-MX_PCB-Mounted_LTST-A683CEGBW_Mill-Max-7305" (layer "F.Cu")
-    (tedit 61E117E2) (tstamp 00000000-0000-0000-0000-0000619a2e8e)
+    (tedit 61F041A2) (tstamp 00000000-0000-0000-0000-0000619a2e8e)
     (at 436.2575 287.675)
     (property "Sheetfile" "keyboard_exposed_diodes_w_fn_row.kicad_sch")
     (property "Sheetname" "")
@@ -2234,12 +2234,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${GOOGLE_DRIVE_LIB}/keyswitch-kicad-library-main/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp" hide
+    (model "${GOOGLE_DRIVE_LIB}/keyswitch-kicad-library-main/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_1u.step" hide
+    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_1u.step"
       (offset (xyz 0 0 9))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -2247,7 +2247,7 @@
   )
 
   (footprint "Cherry MX:Cherry-MX_PCB-Mounted_LTST-A683CEGBW_Mill-Max-7305" (layer "F.Cu")
-    (tedit 61E117EF) (tstamp 00000000-0000-0000-0000-0000619a2ea6)
+    (tedit 61F041AC) (tstamp 00000000-0000-0000-0000-0000619a2ea6)
     (at 455.3075 287.675)
     (property "Sheetfile" "keyboard_exposed_diodes_w_fn_row.kicad_sch")
     (property "Sheetname" "")
@@ -2303,12 +2303,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${GOOGLE_DRIVE_LIB}/keyswitch-kicad-library-main/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp" hide
+    (model "${GOOGLE_DRIVE_LIB}/keyswitch-kicad-library-main/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_1u.step" hide
+    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_1u.step"
       (offset (xyz 0 0 9))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -2316,7 +2316,7 @@
   )
 
   (footprint "Cherry MX:Cherry-MX_PCB-Mounted_LTST-A683CEGBW_Mill-Max-7305" (layer "F.Cu")
-    (tedit 61E11806) (tstamp 00000000-0000-0000-0000-0000619a2ebe)
+    (tedit 61F041C3) (tstamp 00000000-0000-0000-0000-0000619a2ebe)
     (at 455.3075 306.725)
     (property "Sheetfile" "keyboard_exposed_diodes_w_fn_row.kicad_sch")
     (property "Sheetname" "")
@@ -2372,12 +2372,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${GOOGLE_DRIVE_LIB}/keyswitch-kicad-library-main/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp" hide
+    (model "${GOOGLE_DRIVE_LIB}/keyswitch-kicad-library-main/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_1u.step" hide
+    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_1u.step"
       (offset (xyz 0 0 9))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -4800,7 +4800,7 @@
   )
 
   (footprint "Cherry MX:Cherry-MX_PCB-Mounted_LTST-A683CEGBW_Mill-Max-7305" (layer "F.Cu")
-    (tedit 61E117B3) (tstamp 00000000-0000-0000-0000-0000619a3386)
+    (tedit 61F041DB) (tstamp 00000000-0000-0000-0000-0000619a3386)
     (at 248.13875 325.775)
     (property "Sheetfile" "keyboard_exposed_diodes_w_fn_row.kicad_sch")
     (property "Sheetname" "")
@@ -4861,7 +4861,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_Spacebar_6.25u_50mm_spacing.step"
+    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_Spacebar_6.25u_50mm_spacing.step" hide
+      (offset (xyz 0 0 9))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
+    (model "${GOOGLE_DRIVE_LIB}/das_keycap_3d_models/DSA_2u.step"
       (offset (xyz 0 0 9))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -8183,7 +8188,7 @@
   )
 
   (footprint "digikey-footprints:Rotary_Encoder_Switched_PEC11R" (layer "F.Cu")
-    (tedit 61E1081C) (tstamp 00000000-0000-0000-0000-000061d1388f)
+    (tedit 61F03A04) (tstamp 00000000-0000-0000-0000-000061d1388f)
     (at 450 189)
     (property "Sheetfile" "keyboard_exposed_diodes_w_fn_row.kicad_sch")
     (property "Sheetname" "")
@@ -8233,6 +8238,11 @@
       (offset (xyz -0.4 -6.2 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 -90))
+    )
+    (model "${KIPRJMOD}/lib/adafruit_knob_1_inch.step"
+      (offset (xyz 5 0 13.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
     )
   )
 
